@@ -1,0 +1,7 @@
+region          = "us-east-1"
+project = "alpha"
+environment = "dev"
+bucket_name     = "cicd-deployment-react-app"
+repository_name = "react-app"
+codebuild_name  = "react-codebuild-project"
+pipeline_name   = "react-pipeline-project"
